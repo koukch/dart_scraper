@@ -1,0 +1,16 @@
+name: dart_scraper
+description: A Dart web scraping library inspired by scrape-it.
+version: 1.0.1
+homepage: https://github.com/koukch/dart_scraper
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# Add regular dependencies here.
+dependencies:
+  http: ^1.1.0
+  html: ^0.15.4
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.24.0
